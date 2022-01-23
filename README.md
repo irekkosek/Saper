@@ -55,21 +55,26 @@ Użyte biblioteki:
 4. Instrukcja użytkownika 
 Opis działania stworzonego programu ze zrzutami ekranów ilustrujące sposób działania programu. Krótka instrukcja obsługi
 Na początku program pyta nas o rozmiar planszy oraz ilość zadanych min:
+
  ![image](https://user-images.githubusercontent.com/78158271/150696714-f9b8fb70-865c-4289-bb49-fc21710d6ffa.png)
 
 Następnie wybieramy czy chcemy odkrywać pola czy je flagować
+
 ![image](https://user-images.githubusercontent.com/78158271/150696718-4ab2b6d7-74dd-4322-8100-c029c8a94ae0.png)
 
 
 
 Po wybraniu stosownego trybu wpisujemy współrzędne w postaci: [kolumna][wiersz]
+
  ![image](https://user-images.githubusercontent.com/78158271/150696720-afd555cc-5df3-4fd2-ad6b-cdb4e5939bcf.png)
 
 Program pokazuje nam ile zostało jeszcze min, ile czasu minęło i w jakim trybie aktualnie się znajdujemy.
+
  ![image](https://user-images.githubusercontent.com/78158271/150696721-6fcafacd-c243-451a-981e-27cf004a9a6c.png)
 
 
-Program kończy się gdy oflagujemy wszystkie bomby lub na jakąś natrafimy.
+Program kończy się gdy oflagujemy wszystkie bomby lub na jakąś natrafimy
+
 ![image](https://user-images.githubusercontent.com/78158271/150696726-cc184094-e903-4a3e-880a-624ece8a49ad.png)
 ![image](https://user-images.githubusercontent.com/78158271/150696734-02a33d6a-212b-4de2-8996-070a55023f70.png)
 
