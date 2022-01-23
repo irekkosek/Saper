@@ -37,13 +37,13 @@ Ireneusz Kosek gr. lab. 2/3
 
 1. Opis projektu.
 Celem projektu będzie stworzenie gry logicznej Saper
-2. Wymagania 
--Użytkownik może wybrać rozmiar planszy
--Użytkownik może wybrać ilość bomb 
--Program pozwala flagować rozmieszczenie bomb i zlicza ile zostało jeszcze nieoznakowanych
--Program informuje ile bomb sąsiaduje z polem
--Program liczy upływ czasu
--Program rekurencyjnie odsłania pola
+2. Wymagania
+	-Użytkownik może wybrać rozmiar planszy
+	-Użytkownik może wybrać ilość bomb 
+	-Program pozwala flagować rozmieszczenie bomb i zlicza ile zostało jeszcze nieoznakowanych
+	-Program informuje ile bomb sąsiaduje z polem
+	-Program liczy upływ czasu
+	-Program rekurencyjnie odsłania pola
 3. Przebieg realizacji
 W ramach projektu zostały zrealizowane wszystkie założone wcześniej wymagania. 
 Projekt końcowy składa się z dwóch plików: saper.cpp i saper.exe
